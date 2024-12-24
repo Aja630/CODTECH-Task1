@@ -2,11 +2,11 @@ Name: AJAY AHIRWAR
 
 Company: CODTECH IT SOLUTIONS
 
-ID:
+ID:CT08DS208
 
 Domain: EMBEDDED SYSTEMS
 Duration: NOVEMBER 30th, 2024 to DECEMBER 30th, 2024
-Mentor:
+Mentor:Neela Santhosh Kumar
 
 Overview of the Project
 The project involves controlling a basic electronic component, an LED, using the Arduino platform. The objective of this task is to learn and understand how microcontrollers, specifically Arduino, can be used to perform simple control operations like blinking an LED. The project serves as a foundational step towards more advanced embedded systems applications.
